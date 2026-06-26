@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Summer 2025 Brand Awareness",
+    "budgetGoal": 75000,
+    "startDate": "2025-06-01",
+    "endDate": "2025-08-31",
+    "status": "active",
+    "demographic": {
+      "ageMin": 25,
+      "ageMax": 99,
+      "gender": "All"
+    },
+    "geo": {
+      "country": "United States",
+      "state": "California",
+      "city": "Los Angeles",
+      "zipCode": "90001"
+    },
+    "publishers": [
+      "Hulu",
+      "Discovery",
+      "ABC"
+    ],
+    "devices": [
+      "CTV",
+      "Mobile Device"
+    ],
+    "id": "ab6d8e0a-e56c-49f5-be58-72e13f531869",
+    "userId": "acc_001",
+    "createdAt": "2026-06-24T19:25:29.073Z",
+    "updatedAt": "2026-06-24T21:53:21.230Z"
+  },
+  {
+    "name": "Brand Awareness",
+    "budgetGoal": 123123,
+    "startDate": "2026-06-27",
+    "endDate": "2026-07-31",
+    "status": "draft",
+    "demographic": {
+      "ageMin": 13,
+      "ageMax": 15,
+      "gender": "All"
+    },
+    "geo": {
+      "country": "United States",
+      "state": "",
+      "city": "",
+      "zipCode": ""
+    },
+    "publishers": [
+      "ESPN"
+    ],
+    "devices": [
+      "Mobile Device"
+    ],
+    "id": "fb738dd9-d705-4d6e-b4e9-b3bf3431cfaa",
+    "userId": "acc_001",
+    "createdAt": "2026-06-24T21:55:27.282Z",
+    "updatedAt": "2026-06-24T21:55:52.654Z"
+  },
+  {
+    "name": "Global Media's Holiday Promo ",
+    "status": "active",
+    "budgetGoal": 500000,
+    "startDate": "2026-11-26",
+    "endDate": "2027-01-09",
+    "demographic": {
+      "ageMin": 18,
+      "ageMax": 54,
+      "gender": "Male"
+    },
+    "geo": {
+      "country": "United States",
+      "state": "",
+      "city": "Arlington",
+      "zipCode": "22202"
+    },
+    "publishers": [
+      "ESPN",
+      "TLC"
+    ],
+    "devices": [
+      "Mobile Device",
+      "CTV",
+      "Web Browser"
+    ],
+    "id": "9066b518-32ca-45ac-bc5b-e961071477b1",
+    "userId": "acc_002",
+    "createdAt": "2026-06-26T16:28:29.853Z",
+    "updatedAt": "2026-06-26T16:28:50.462Z"
+  }
+]

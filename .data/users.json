@@ -1,0 +1,16 @@
+[
+  {
+    "id": "acc_001",
+    "name": "Acme Employee",
+    "email": "acme@corp.com",
+    "password": "acme2024",
+    "company": "Acme Corp"
+  },
+  {
+    "id": "acc_002",
+    "name": "Global Media Employee",
+    "email": "global@media.com",
+    "password": "global2024",
+    "company": "Global Media"
+  }
+]
