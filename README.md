@@ -22,14 +22,31 @@
 
 ## Planned Improvements
 
-- Sign up flow / registration page
-- Remove hardcoded login credentials (move to env vars or real auth)
 - Real database integration (replace file-based storage)
+- ORM for data modeling
+- Sign up / registration page
+- Encrypt plaintext sensitve user data
+- Remove hardcoded login credentials
 - Budget API or WebSocket for real-time budget tracking
 - Activate campaigns ability
 - Filtering by column (even with device and publisher types)
 - Export or duplicate campaign
 - CI/CD and automated tests
+
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Framework | Next.js 16 |
+| Language | JavaScript (chose for familiarity but typescript would be better long term) |
+| Auth | NextAuth v4 (chose for JWT managing and secure session setup, auth middleware, but in production we should make our own. nextauth hides a lot of work internally which is a risk for production) |
+| Styling | Tailwind CSS v4 |
+| Data | Flat JSON files via Node `fs` (no database) |
+| Tooling | ESLint, Babel React Compiler |
+
+
+---
 
 ## Getting Started
 
