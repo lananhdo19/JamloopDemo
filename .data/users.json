@@ -1,10 +1,10 @@
 [
   {
     "id": "acc_001",
-    "name": "Acme Employee",
-    "email": "acme@corp.com",
-    "password": "acme2024",
-    "company": "Acme Corp"
+    "name": "Synergy Employee",
+    "email": "synergy@corp.com",
+    "password": "synergy2024",
+    "company": "Synergy Corp"
   },
   {
     "id": "acc_002",

@@ -1,4 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Jamloop — Campaign Management Platform
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Campaigns — Synergy Corp
+![Synergy Corp Campaigns](screenshots/campaigns-synergy.png)
+
+### Campaigns — Global Media
+![Global Media Campaigns](screenshots/campaigns-global-media.png)
+
+### New Campaign
+![New Campaign Form](screenshots/new-campaign.png)
+
+### Edit Campaign
+![Edit Campaign Form](screenshots/edit-campaign.png)
+
+---
+
+
+## Planned Improvements
+
+- Sign up flow / registration page
+- Remove hardcoded login credentials (move to env vars or real auth)
+- Real database integration (replace file-based storage)
+- Budget API or WebSocket for real-time budget tracking
+- Activate campaigns ability
+- Filtering by column (even with device and publisher types)
+- Export or duplicate campaign
+- CI/CD and automated tests
 
 ## Getting Started
 

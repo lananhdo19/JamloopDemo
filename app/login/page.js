@@ -77,9 +77,9 @@ export default function LoginPage() {
                             <p className="text-xs text-gray-500 mb-2">Demo accounts</p>
                             <button
                                 type="button"
-                                onClick={() => { setEmail('acme@corp.com'); setPassword('acme2024'); }}
+                                onClick={() => { setEmail('synergy@corp.com'); setPassword('synergy2024'); }}
                                 className="w-full bg-gray-300 hover:bg-gray-200 text-white font-medium py-2 px-4 rounded text-sm transition-colors mb-2"
-                            >Acme Corp</button>
+                            >Synergy Corp</button>
                             <button
                                 type="button"
                                 onClick={() => { setEmail('global@media.com'); setPassword('global2024'); }}

@@ -88,5 +88,33 @@
     "userId": "acc_002",
     "createdAt": "2026-06-26T16:28:29.853Z",
     "updatedAt": "2026-06-26T16:28:50.462Z"
+  },
+  {
+    "name": "Synergy Corp's Summer Campaign",
+    "status": "draft",
+    "budgetGoal": 23423,
+    "startDate": "2026-06-04",
+    "endDate": "2026-07-02",
+    "demographic": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": "All"
+    },
+    "geo": {
+      "country": "United States",
+      "state": "",
+      "city": "",
+      "zipCode": ""
+    },
+    "publishers": [
+      "CBS"
+    ],
+    "devices": [
+      "Mobile Device"
+    ],
+    "id": "8f010c94-bf4d-4049-a3c5-5b0c4f1d2786",
+    "userId": "acc_001",
+    "createdAt": "2026-06-29T16:46:47.979Z",
+    "updatedAt": "2026-06-29T16:47:19.749Z"
   }
 ]
